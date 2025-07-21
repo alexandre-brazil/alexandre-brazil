@@ -64,5 +64,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+<div align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px; font-style: italic; font-size: 16px; color: #333; max-width: 800px; margin: auto;">
+  "Anyone can write code that a computer can understand.<br/>
+  Good programmers write code that humans can understand."<br/>
+  — Martin Fowler
+</div>
 
 ###
